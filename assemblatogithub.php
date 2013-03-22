@@ -21,9 +21,6 @@
  *  @author bhavya
  */
 
-
-// TESTED WITH PUBLIC REPOSITORY
-
 $data = csv_to_array('CSV_FILE_PATH', ',');
 
 $username='xxxxxxxxx'; //change this username to your github account username
